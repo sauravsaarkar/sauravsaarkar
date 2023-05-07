@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Saurav Sarkar.</h1>
 
-![About me](https://media-exp1.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1669248000&v=beta&t=dG1Pvi32ABq7W_UX-LpB6UArNWhUOu1ChQ91Ppb42cM)
+![About me](https://media.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1689206400&v=beta&t=xq3LcjPmqZxk8Oj8_oHLYZpYIxm29bPSJMIS7TNqYLY)
 
 <h3 align="center">I am passionate about learning new things ✨</h3>
 
-![Profile views](https://gpvc.arturio.dev/Sauravsr0)  
+![Profile views](https://gpvc.arturio.dev/Sauravsaarkar)  
 
 ## About me 🚀
 I choose Bachelor of Science in Computer Science & Engineering based on my love of computers and all things computing. It's my final year as a computer science student, and I love problem-solving. I always try to break problem solutions fast. I want to improve to build clear logic.
