@@ -27,4 +27,4 @@ I choose Bachelor of Science in Computer Science & Engineering based on my love 
 <br>
 
 ## Github metrics
-![GitHub metrics](https://metrics.lecoq.io/Sauravsr0)
+![GitHub metrics](https://metrics.lecoq.io/Sauravsaarkar)
